@@ -1,0 +1,9 @@
+{
+  "name": "web-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anoriqq/web-docker.git",
+  "author": "anoriqq <shota.yoshikawa@anoriqq.com>",
+  "license": "MIT",
+  "private": true
+}
